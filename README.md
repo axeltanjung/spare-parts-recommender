@@ -1,5 +1,7 @@
 # Industrial Spare Parts Recommendation System
 
+<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/29e94b78-4a80-4f21-93a1-ff5e5c9ef250" />
+
 > AI-powered recommendation engine for industrial maintenance spare parts, combining collaborative filtering and content-based approaches with real-time sensor simulation.
 
 ---
